@@ -17,3 +17,7 @@ Click the above "Open in Gitpod" button to start a new workspace. Once you're re
 ### An existing project
 
 To get started with Python Django on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+
+
+### ref
+[쟝고 튜토리얼](https://docs.djangoproject.com/ko/4.0/intro/tutorial01/)
