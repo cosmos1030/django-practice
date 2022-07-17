@@ -20,4 +20,6 @@ To get started with Python Django on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml
 
 
 ### ref
-[쟝고 튜토리얼](https://docs.djangoproject.com/ko/4.0/intro/tutorial01/)
+- [쟝고 튜토리얼](https://docs.djangoproject.com/ko/4.0/intro/tutorial01/)
+- [쟝고걸스 튜토리얼](https://tutorial.djangogirls.org/ko/django_models/)
+- [self 이해하기](https://wikidocs.net/1742)
