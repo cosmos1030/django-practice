@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'mysite',
     'blog',
     'polls.apps.PollsConfig',
     'django.contrib.admin',
