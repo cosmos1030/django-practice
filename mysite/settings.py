@@ -127,5 +127,5 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_ORIGINS = ['https://8000-cosmos1030-templatepyth-rvga5jaahjw.ws-us54.gitpod.io', 'https://*', 'localhost', '127.0.0.1', '[::1]', '.pythonanywhere.com']
+ALLOWED_ORIGINS = ['https://8000-cosmos1030-templatepyth-rvga5jaahjw.ws-us54.gitpod.io', 'https://*', 'localhost', '127.0.0.1', '[::1]', '.pythonanywhere.com', 'dyk6208.pythonanywhere.com']
 CSRF_TRUSTED_ORIGINS = ALLOWED_ORIGINS.copy()
