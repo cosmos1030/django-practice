@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!cd0v*xol@f6k=q5k1i=**i(15bpm3dka8ipdd45mk+p7it!th
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dyk6208.pythonanywhere.com']
+ALLOWED_HOSTS = ['dyk6208.pythonanywhere.com', 'localhost']
 
 
 # Application definition
@@ -127,5 +127,5 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_ORIGINS = ['https://8000-cosmos1030-templatepyth-rvga5jaahjw.ws-us54.gitpod.io', 'https://*', 'localhost', '127.0.0.1', '[::1]', '.pythonanywhere.com', 'https://dyk6208.pythonanywhere.com', 'dyk6208.pythonanywhere.com']
+ALLOWED_ORIGINS = ['https://8000-cosmos1030-templatepyth-rvga5jaahjw.ws-us54.gitpod.io', 'https://*', 'https://dyk6208.pythonanywhere.com',]
 CSRF_TRUSTED_ORIGINS = ALLOWED_ORIGINS.copy()
