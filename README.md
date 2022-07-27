@@ -7,5 +7,5 @@
 
 ### ref
 - [쟝고 튜토리얼](https://docs.djangoproject.com/ko/4.0/intro/tutorial01/)
-- [쟝고걸스 튜토리얼](https://tutorial.djangogirls.org/ko/django_models/)
+- [쟝고걸스 튜토리얼](https://tutorial.djangogirls.org/ko/dynamic_data_in_templates/)
 - [self 이해하기](https://wikidocs.net/1742)
